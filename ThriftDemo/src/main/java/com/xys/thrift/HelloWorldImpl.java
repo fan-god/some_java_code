@@ -1,7 +1,7 @@
 package com.xys.thrift;
 
 import org.apache.thrift.TException;
-
+//
 public class HelloWorldImpl implements HelloWorldService.Iface {
     public HelloWorldImpl() {
     }
